@@ -48,6 +48,7 @@ In other words, it involves converting real-world entities (like student, bank a
 ## OOAD Tools
 
 * UML Diagrams (Class Diagram, Sequence Diagram, etc.)
+
 * Use Case Diagrams
 * Design Patterns (Singleton, Factory, etc.)
 

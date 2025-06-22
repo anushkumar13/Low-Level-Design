@@ -29,14 +29,24 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 ---
 
-## Key Concepts I’m Learning
+## Topics Covered
 
-* Object-Oriented Design Basics  
-* UML Diagrams for visualization 
-* SOLID Principles  
-* Design Patterns (Creational, Structural, Behavioral)  
-* Object Modeling  
-* Testable and Maintainable Code  
+1. [Object Oriented Analysis and Design](./01_Object_Oriented_Analysis_and_Design.md)  
+2. [Object Oriented Design Principles](./02_Object_Oriented_Design_Principles.md)  
+3. [Creational Design Patterns](./03_Creational_Design_Patterns.md)  
+4. [Structural Design Pattern](./04_Structural_Design_Pattern.md)  
+5. [Behavioral Design Pattern](./05_Behavioral_Design_Pattern.md)  
+6. [Designing a Parking Lot System](./06_Designing_a_Parking_Lot_System.md)  
+7. [Designing an Elevator System](./07_Designing_an_Elevator_System.md)  
+8. [Designing a Car Rental System](./08_Designing_a_Car_Rental_System.md)  
+9. [Designing a Meeting Scheduler System](./09_Designing_a_Meeting_Scheduler_System.md)  
+10. [Designing a Vending Machine System](./10_Designing_a_Vending_Machine_System.md)  
+11. [Designing a LinkedIn System](./11_Designing_a_LinkedIn_System.md)  
+12. [Designing a Chess Game System](./12_Designing_a_Chess_Game_System.md)  
+13. [Designing a Restaurant Management System](./13_Designing_a_Restaurant_Management_System.md)  
+   
+
+>  Each topic is organized in its own Markdown file with clean formatting and practical examples.  
 
 ---
 
