@@ -49,7 +49,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 ---
 
-## Practice Problems
+## Designing Problems that I will be solving
 
 * Designing a Parking Lot System  
 * Designing an Elevator System  
