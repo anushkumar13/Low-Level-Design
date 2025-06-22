@@ -78,5 +78,5 @@ By the end of this journey, I aim to solve LLD interview problems confidently an
 ##  Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anush-kumar-mall)  
-- 📸 [Instagram](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)  
+- 📸 [Instagram](https://www.instagram.com/anush.kumar.mall/?next=%2Fanushkumar13%2F)  
 - ✉️ Email: mallanushkumar@gmail.com
