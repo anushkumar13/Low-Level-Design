@@ -12,20 +12,20 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 | Date Range 2025       | Focus Area                                                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **June 19–21**   |        UML Diagrams                                   |
-| **June 19–21**   |        SOLID Principles                               |
-| **June 22**      |        Design Patterns – Creational                   |
-| **June 23-24**   |        Design Patterns – Structural                   |
-| **June 24-25**   |        Design Patterns – Behavioral                   |
-| **June 26**      |        Designing a Parking Lot System                 |
-| **June 26**      |        Designing an Elevator System                   |
-| **June 27**      |        Designing a Car Rental System                  |
-| **June 27**      |        Designing a Meeting Scheduler System           |
-| **June 28**      |        Designing a Vending Machine System             |
-| **June 28**      |        Designing a LinkedIn System                    |
-| **June 29**      |        Designing a Chess Game System                  |
-| **June 29**      |        Designing a Restaurant Management System       |
-| **June 30**      |        Final Revision                                 |
+| **June 19–21**   |        UML Diagrams                                                                       |
+| **June 19–21**   |        SOLID Principles                                                                   |
+| **June 22**      |        Design Patterns – Creational                                                       |
+| **June 23-24**   |        Design Patterns – Structural                                                       |
+| **June 24-25**   |        Design Patterns – Behavioral                                                       |
+| **June 26**      |        Designing a Parking Lot System                                                     |
+| **June 26**      |        Designing an Elevator System                                                       |
+| **June 27**      |        Designing a Car Rental System                                                      |
+| **June 27**      |        Designing a Meeting Scheduler System                                               |
+| **June 28**      |        Designing a Vending Machine System                                                 |
+| **June 28**      |        Designing a LinkedIn System                                                        |
+| **June 29**      |        Designing a Chess Game System                                                      |
+| **June 29**      |        Designing a Restaurant Management System                                           |
+| **June 30**      |        Final Revision                                                                     |
 
 ---
 
