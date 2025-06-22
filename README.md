@@ -13,10 +13,10 @@ To build a strong foundation in Low-Level Design and become confident in designi
 | Date Range 2025       | Focus Area                                                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **June 19–21**   | UML Diagrams: Class Diagram, Sequence Diagram, Use Case Diagram, Activity Diagram                                     |
-| **June 19–21**   | SOLID Principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion |
-| **June 22**   | Design Patterns – Creational: Factory, Abstract Factory, Singleton,  Builder, Prototype                                           |
-| **June 23-24**   | Design Patterns – Structural: Decorator, Adapter, Proxy, Facade, Bridge, Composite, Flyweight                                             |
-| **June 24-25**   | Design Patterns – Behavioral: Chain of Relationship, Command, Observer, Mediator, Iterator, Visitor                           |
+| **June 19–21**   | SOLID Principles |
+| **June 22**   | Design Patterns – Creational     |
+| **June 23-24**   | Design Patterns – Structural    |
+| **June 24-25**   | Design Patterns – Behavioral                           |
 | **June 26**     | Designing a Parking Lot System                                                                                         |
 | **June 26**        | Designing an Elevator System                                                                                           |
 | **June 27**        | Designing a Car Rental System                                                                                          |
