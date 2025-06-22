@@ -42,19 +42,26 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 ## Progress Tracker
 
-| Topic               | Status         |
-| ------------------- | -------------  |
-| OOP Fundamentals    | ✅ Completed   |
-| SOLID Principles    | ✅ Completed   |
-| UML Diagrams        | ⏳ In Progress |
-| Creational Patterns | ⏳ In Progress |
-| Structural Patterns | 🔲 Pending     |
-| Behavioral Patterns | 🔲 Pending     |
-| Designing Problems  | 🔲 Pending     |
+| Topic                                       | Status         |
+| -------------------                         | -------------  |
+| OOP Fundamentals                            | ✅ Completed   |
+| UML Diagrams                                | ✅ Completed   |
+| SOLID Principles                            | ✅ Completed   |
+| Creational Patterns                         | ✅ Completed   |
+| Structural Patterns                         | ⏳ In Progress |
+| Behavioral Patterns                         | 🔲 Pending     |
+| Designing a Parking Lot System              | 🔲 Pending     |
+| Designing an Elevator System                | 🔲 Pending     |
+| Designing a Car Rental System               | 🔲 Pending     |
+| Designing a Meeting Scheduler System        | 🔲 Pending     |
+| Designing a Vending Machine System          | 🔲 Pending     |
+| Designing a LinkedIn                        | 🔲 Pending     |
+| Designing a Chess Game System               | 🔲 Pending     |
+| Designing a Restaurant Management System    | 🔲 Pending     |
 
 ---
 
-## Practice & Projects
+## Practice Problems
 
 * Designing a Parking Lot System  
 * Designing an Elevator System  
