@@ -10,7 +10,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 ## Timeline & Plan
 
-| Date Range       | Focus Area                                                                                                             |
+| Date Range 2025       | Focus Area                                                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **June 19–21**   | UML Diagrams: Class Diagram, Sequence Diagram, Use Case Diagram, Activity Diagram                                     |
 | **June 19–21**   | SOLID Principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion |
