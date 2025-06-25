@@ -51,10 +51,3 @@ They help create software where:
 * Communication is clean and well-managed
 
 ---
-
-
-
-
-
-
-

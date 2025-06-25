@@ -47,17 +47,3 @@ Structural design patterns = the **rules or techniques** used to combine these b
 Now you're ready to tackle any structural pattern like a boss! 🚀
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
