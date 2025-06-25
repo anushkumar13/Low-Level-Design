@@ -8,23 +8,22 @@ These patterns help manage object creation while promoting **loose coupling**, *
 
 ---
 
-## 🧱 Patterns You Have Already Learned
+## 🧱 Patterns You will be studying
 
-Below is a list of creational design patterns you've already studied:
+Below is a list of creational design patterns you will study:
 
 | Pattern Name             | Completed? |
 | ------------------------ | ---------- |
-| Singleton Pattern        | ✅ Yes      |
 | Factory Method Pattern   | ✅ Yes      |
 | Abstract Factory Pattern | ✅ Yes      |
 | Builder Pattern          | ✅ Yes      |
+| Singleton Pattern        | ✅ Yes      |
 | Prototype Pattern        | ✅ Yes      |
 
 ➡️ These five patterns are part of the **Creational Design Patterns** family.
 
 Each one solves the object creation problem in a different way, based on different scenarios and requirements.
 
----
 
 ## 🎯 One Line Summary:
 
