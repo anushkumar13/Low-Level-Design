@@ -36,11 +36,11 @@ To build a strong foundation in Low-Level Design and become confident in designi
 
 3. Creational Design Pattern – ✅ Completed  
    - [Creational Design Patterns](./03_Creational_Design_Pattern/01_Creational_Design_Patterns.md)  
-   - [Factory Method Pattern](./03_Creational_Design_Pattern/02_Factory_Method_Pattern.md)  
-   - [Abstract Factory Pattern](./03_Creational_Design_Pattern/03_Abstract_Factory_Pattern.md)  
-   - [Builder Pattern](./03_Creational_Design_Pattern/04_Builder_Pattern.md)  
-   - [Singleton Pattern](./03_Creational_Design_Pattern/05_Singleton_Pattern.md)  
-   - [Telescoping Constructor Pattern](./03_Creational_Design_Pattern/06_Telescoping_Constructor_Pattern.md)  
+   - [Factory Method Design Pattern](./03_Creational_Design_Pattern/02_Factory_Method_Design_Pattern.md)  
+   - [Abstract Factory Design Pattern](./03_Creational_Design_Pattern/03_Abstract_Factory_Design_Pattern.md)  
+   - [Builder Design Pattern](./03_Creational_Design_Pattern/04_Builder_Design_Pattern.md)  
+   - [Singleton Design Pattern](./03_Creational_Design_Pattern/05_Singleton_Design_Pattern.md)  
+   - [Telescoping Constructor Design Pattern](./03_Creational_Design_Pattern/06_Telescoping_Constructor_Design_Pattern.md)  
    - [Prototype Design Pattern](./03_Creational_Design_Pattern/07_Prototype_Design_Pattern.md)  
 
 4. Structural Design Pattern – ✅ Completed  
@@ -48,8 +48,8 @@ To build a strong foundation in Low-Level Design and become confident in designi
    - [Decorator Design Pattern](./04_Structural_Design_Pattern/02_Decorator_Design_Pattern.md)  
    - [Adapter Design Pattern](./04_Structural_Design_Pattern/03_Adapter_Design_Pattern.md)  
    - [Proxy Design Pattern](./04_Structural_Design_Pattern/04_Proxy_Design_Pattern.md)  
-   - [Facade Pattern](./04_Structural_Design_Pattern/05_Facade_Pattern.md)  
-   - [Facade vs Proxy](./04_Structural_Design_Pattern/06_Facade_vs_Proxy.md)  
+   - [Facade Design Pattern](./04_Structural_Design_Pattern/05_Facade_Design_Pattern.md)  
+   - [Facade Pattern vs Proxy Pattern](./04_Structural_Design_Pattern/06_Facade_Pattern_vs_Proxy_Pattern.md)  
    - [Bridge Design Pattern](./04_Structural_Design_Pattern/07_Bridge_Design_Pattern.md)  
    - [Bridge Pattern vs Adapter Pattern](./04_Structural_Design_Pattern/08_Bridge_Pattern_vs_Adapter_Pattern.md)  
    - [Composite Design Pattern](./04_Structural_Design_Pattern/09_Composite_Design_Pattern.md)  
@@ -71,6 +71,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
 11. [Designing a LinkedIn System](./11_Designing_a_LinkedIn_System.md) – 🔲 Pending  
 12. [Designing a Chess Game System](./12_Designing_a_Chess_Game_System.md) – 🔲 Pending  
 13. [Designing a Restaurant Management System](./13_Designing_a_Restaurant_Management_System.md) – 🔲 Pending  
+
 
 > Each topic is organized in its own Markdown file with clean formatting and practical examples.
 
