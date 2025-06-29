@@ -78,3 +78,66 @@ You can download the implementation code from the following link:
 [Click Here for the Drive link](https://drive.google.com/file/d/1xh2i2AGu2OW3s9SqVWmLXFk1IcKdW5n0/view?usp=drive_link)
 
 ---
+
+##  What I Learned from Designing this System
+
+I recently worked on a Parking Lot System and honestly, at first I thought — bas ek simple system hi toh banana hai.  
+But bro, jaise-jaise requirements break ki, mujhe samajh aaya ki there's actually a lot going on behind the scenes.
+
+---
+
+### 🔹 Started Thinking in Terms of Objects
+
+I used to just create classes randomly before, but this time I actually sat down and thought — “what objects do I really need here?”  
+Things like `Vehicle`, `ParkingSpot`, `Ticket`, `DisplayBoard` — all of these started making sense when I looked at them as real entities in the system.
+
+---
+
+### 🔹 Inheritance and Abstraction Actually Helped
+
+I always knew what inheritance and abstraction meant... theory toh padha hi tha.  
+But this was the first time I used them properly. Like using inheritance for different types of vehicles and spots made the design super clean.  
+And abstraction helped hide the complexity from the rest of the system. Pehli baar laga, okay this stuff is actually useful 😅
+
+---
+
+### 🔹 Writing Code That Can Handle Scale
+
+The system needed to support up to 40,000 vehicles — and that number made me realise ki bhai, code sirf chalna nahi chahiye, it should scale too.  
+So I focused on keeping things modular, reusable, and easy to extend.  
+Like if someone wants to add EV-charging spots in the future — the system should be ready.
+
+---
+
+### 🔹 Actually Applied SOLID Principles
+
+Not gonna lie, I used to just memorize the SOLID principles for the sake of interviews 😅  
+But in this project, I actually applied them.  
+Especially Single Responsibility and Open/Closed — made sure every class had one clear job and that I could add new features without breaking old code.
+
+---
+
+### 🔹 Handling Real-Time Stuff
+
+One thing that was kinda tricky was the display board logic — it had to update in real-time as vehicles parked or left.  
+So I had to think about things like when and how the availability should refresh without overloading the system.
+
+---
+
+### 🔹 First Time I Felt Like I "Designed" Something
+
+This didn’t feel like just another coding assignment.  
+For the first time, I felt like I was *actually designing* something from scratch.  
+I started with the use cases, then class diagrams, then slowly moved to code — and that process felt really good.
+
+---
+
+###  Overall
+
+This project taught me a lot more than I expected.  
+It wasn't just about parking logic — it was about how to approach problems, design for the real world, and write code that’s clean and future-ready.
+
+Now I feel much more confident picking up system design problems and breaking them down the right way.  
+Still learning, still improving — but this project gave me a solid push in the right direction 💪
+
+---

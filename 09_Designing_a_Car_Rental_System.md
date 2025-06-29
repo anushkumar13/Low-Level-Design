@@ -103,3 +103,73 @@ You can download the implementation code from the following link:
 [Click Here for the Drive link](https://drive.google.com/file/d/1VAiwTr018JNNxTdHX4tRW5UMFn5sw60l/view?usp=sharing)
 
 ---
+
+##  What I Learned from Designing the Car Rental System
+
+This system taught me way more than I expected.  
+At first glance it felt like — “bas vehicle rent karwana hai, simple system hoga”, but jaise-jaise I broke down the features and use cases, I realised that a car rental business has a lot of moving parts — literally and logically.
+
+---
+
+### 🔹 Learning to Handle Multiple User Roles
+
+There were two clear users — **customers** and **receptionists** — and both had very different responsibilities.  
+I learned how to model user types, assign different actions to each, and make sure the system supports both flows separately but smoothly.
+
+---
+
+### 🔹 Modelling Vehicle Types & Subtypes
+
+Yahan pe maza aaya.  
+Cars, Trucks, Vans, Motorcycles — each had multiple subcategories like economy cars, touring motorcycles, high-duty trucks etc.  
+It taught me how to design a class hierarchy that’s both flexible and easy to maintain.
+
+---
+
+### 🔹 Reservation and Rental Flow
+
+Building the full **reservation system** — from booking to cancellation, to overdue tracking — gave me real insight into how businesses work in the background.  
+I understood how start dates, overdue fines, and active rentals all need to be tied to each customer and vehicle properly.
+
+---
+
+### 🔹 Tracking Everything
+
+I implemented:
+
+- **Vehicle logs** to track what each vehicle has been through.
+- **Rental history** to know which customer used what and when.
+- **Search features** to filter vehicles based on type and model.
+
+This made me realise how important it is to track details and keep data organized in systems like this.
+
+---
+
+### 🔹 Add-ons Made It Interesting
+
+Customers could add extra stuff like:
+
+- Ski racks  
+- GPS  
+- Drivers  
+- Wi-Fi and even roadside assistance
+
+Designing this optional add-on system helped me understand how to keep core functionality clean, while still allowing flexibility.
+
+---
+
+### 🔹 Managing Multiple Branches
+
+Another layer was supporting **multiple rental branches** — each with its own parking spots, vehicles, and reservations.  
+I had to design the system so that it scales branch-wise without becoming a mess.
+
+---
+
+###  Final Thoughts
+
+Before building this, I never thought a car rental business would need such a detailed system.  
+But after completing this design, I genuinely feel more confident in handling real-world business logic, especially when multiple roles, records, vehicles, and features are involved.
+
+It wasn’t just about coding — it was about thinking how a **real business** would run, and how tech can support it.
+
+Now I feel more ready to approach complex system design problems with a proper structure and mindset.
