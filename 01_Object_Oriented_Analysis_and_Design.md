@@ -844,7 +844,7 @@ Deployment diagrams using nodes help in visualizing the actual hardware/software
 
 ---
 
-# 🌀 UML Activity Diagram (How I Understood)
+# UML Activity Diagram (How I Understood)
 
 Activity diagram in UML is like a flowchart.  
 It shows step by step what all happens in a process — from the start till the end.
@@ -932,7 +932,7 @@ This shows the steps involved in a user login process and what happens if the pa
 
 ---
 
-## 🏁 Summary
+## Summary
 
 * **Activity Diagram = Step-by-step workflow**
 * Starts from a filled circle, ends in a circled dot
@@ -946,7 +946,7 @@ Activity diagrams are a powerful way to visualize and document the internal logi
 
 ---
 
-# 🔄 UML Interaction Diagrams (Student Style Notes 😅)
+# UML Interaction Diagrams
 
 Okay so... interaction diagrams basically show **how different objects talk to each other** in a system.  
 Like, kis object ne kis object ko message bheja, kis order mein kaam hua, and all that.
@@ -960,7 +960,7 @@ Not about what object does, but more about **how they work together** to do some
 
 ---
 
-##  2 Diagrams Jo Mujhe Samajh Aaye
+##  2 Diagrams 
 
 ### 1. Sequence Diagram
 
@@ -984,7 +984,7 @@ Dono kaam ke hain, bas use-case pe depend karta hai kaunsa use karna hai.
 
 ---
 
-## 🔁 Sequence Diagram Example: User Login Use Case
+## Sequence Diagram Example: User Login Use Case
 
 ```
 User       LoginController      AuthService       Database
@@ -1005,7 +1005,7 @@ This diagram shows:
 
 ---
 
-## 🔁 Communication Diagram Example: (Same Use Case)
+## Communication Diagram Example: (Same Use Case)
 
 ```
 [User]  
@@ -1046,7 +1046,7 @@ Imagine a WhatsApp group with 4 people chatting:
 
 ---
 
-## 🎯 Summary
+## Summary
 
 * Interaction diagrams **show how objects interact** with each other
 * **Sequence Diagram** = What happens **in what order**
@@ -1068,7 +1068,7 @@ Let's understand them in a simple and beginner-friendly way:
 
 ---
 
-## 🧱 1. Structure Diagrams
+## 1. Structure Diagrams
 
 Structure diagrams show **what components exist** in a system — like classes, objects, software modules, and hardware setups.
 
@@ -1084,7 +1084,7 @@ Structure diagrams show **what components exist** in a system — like classes, 
 
 ---
 
-## 🎭 2. Behavior Diagrams
+## 2. Behavior Diagrams
 
 Behavior diagrams show **how the system behaves or functions** — the order of operations, decisions, conditions, and object behaviors.
 
@@ -1109,7 +1109,7 @@ Imagine you’re building a house:
 
 ---
 
-## 🎯 Summary Table
+## Summary Table
 
 | Type                   | Diagrams Included                                                                |
 | ---------------------- | -------------------------------------------------------------------------------- |
@@ -1122,7 +1122,7 @@ This classification helps developers and designers choose the right diagram for 
 
 ---
 
-# UML Use Case Diagram (What I Understood)
+# UML Use Case Diagram 
 
 So Use Case Diagram is like one of the most basic UML diagrams.  
 It shows **who is using the system** and **what all things they can do**.
@@ -1203,7 +1203,7 @@ At first I was bit confused ki yeh bas actor aur system ke beech ki interaction 
 
 ---
 
-## Use Case Diagram Use (as I understood)
+## Use Case Diagram Use 
 
 Okay so like... we use this diagram to show **what all things** users can do in the system.  
 It's good for showing the features of system in simple way.
@@ -1287,7 +1287,7 @@ These steps are **mandatory** and will occur every time.
 
 ---
 
-## 📘 Example: Zomato App
+## Example: Zomato App
 
 ### Use Case: `Place Order`
 
@@ -1322,7 +1322,7 @@ This shows that placing an order will always require the user to log in and sele
 
 ---
 
-## 🤝 `<<include>>` vs `<<extend>>`
+## `<<include>>` vs `<<extend>>`
 
 | Feature      | `<<include>>`             | `<<extend>>`                      |
 | ------------ | ------------------------- | --------------------------------- |
@@ -1391,7 +1391,7 @@ That's why it **extends** “Withdraw Cash”.
 
 ---
 
-## 🍽 Real-life Example: Zomato App
+## Real-life Example: Zomato App
 
 ### Scenario:
 
@@ -1426,7 +1426,7 @@ This means the system will only run the `Apply Coupon` use case **if the user ch
 
 ---
 
-## 🔄 `<<include>>` vs `<<extend>>`
+## `<<include>>` vs `<<extend>>`
 
 | Feature      | `<<include>>`                     | `<<extend>>`                      |
 | ------------ | --------------------------------- | --------------------------------- |
@@ -1481,7 +1481,7 @@ It's really helpful before writing code, because it clears what all classes we n
 
 ---
 
-## 🧱 Structure of a Class Box
+## Structure of a Class Box
 
 Each class is shown as a rectangle divided into 3 sections:
 
@@ -1495,7 +1495,7 @@ Each class is shown as a rectangle divided into 3 sections:
 +----------------------+
 ```
 
-### 🧪 Example: Student Class
+### Example: Student Class
 
 ```
 +-----------------------------+
@@ -1591,7 +1591,7 @@ I think after using them in one or two examples, they started making sense.
 
 ---
 
-## 🧪 Real Example: Online Shopping System
+## Real Example: Online Shopping System
 
 ```
 +-------------+           +------------+           +-------------+
@@ -1606,7 +1606,7 @@ I think after using them in one or two examples, they started making sense.
 
 ---
 
-## 🧠 Summary Table
+## Summary Table
 
 | Part          | Description                                 |
 | ------------- | ------------------------------------------- |
@@ -1682,7 +1682,7 @@ In UML, enumeration is drawn using a rectangle with 3 parts:
 So this is how UML helps to represent enums in clear and standard way.
 
 
-### 📊 UML Example
+### UML Example
 
 ```
 +----------------------------+
@@ -1711,7 +1711,7 @@ public enum OrderStatus {
 
 ---
 
-## 🔗 Using Enumeration in a Class
+## Using Enumeration in a Class
 
 When you have a class like `Order`, you can use the `OrderStatus` enumeration as an attribute type.
 
@@ -1729,7 +1729,7 @@ This means every `Order` object will have a `status`, which must be one of the v
 
 ---
 
-## 🎯 Summary
+## Summary
 
 | Feature         | Description                           |
 | --------------- | ------------------------------------- |
@@ -1810,7 +1810,7 @@ class Circle extends Shape {
 
 ---
 
-## 🔍 Features of Abstract Class
+## Features of Abstract Class
 
 | Feature                              | Description                              |
 | ------------------------------------ | ---------------------------------------- |
@@ -1822,7 +1822,7 @@ class Circle extends Shape {
 
 ---
 
-## 📘 Where is Abstract Class Used?
+## Where is Abstract Class Used?
 
 * When you want to define a **common structure** but leave implementation details to subclasses
 * When you want to **enforce** that all subclasses implement certain methods
@@ -1843,7 +1843,7 @@ class Circle extends Shape {
 
 ---
 
-## 🎯 Summary
+## Summary
 
 * An **abstract class** cannot be instantiated
 * It can have both **abstract methods** and **normal methods**
@@ -1876,7 +1876,7 @@ I’m still learning it properly, but this much I understood — it helps to sho
 
 ---
 
-## 🧱 UML Notation Symbols
+## UML Notation Symbols
 
 | Symbol | Access Modifier   | Meaning                                   |
 | ------ | ----------------- | ----------------------------------------- |
@@ -1898,7 +1898,7 @@ I’m still learning it properly, but this much I understood — it helps to sho
 
 ---
 
-## 🧪 UML Class Example
+## UML Class Example
 
 ```plaintext
 +---------------------------+
@@ -1915,7 +1915,7 @@ I’m still learning it properly, but this much I understood — it helps to sho
 
 ---
 
-## 🔓 Real-Life Analogy
+## Real-Life Analogy
 
 Think of your house:
 
@@ -1926,7 +1926,7 @@ Think of your house:
 
 ---
 
-## 🎯 Summary
+## Summary
 
 * UML uses `+`, `-`, `#`, `~` to **represent access modifiers** visually
 * Java provides **4 access levels**: `public`, `private`, `protected`, and `default`
@@ -1972,7 +1972,7 @@ So basically, association is used to show that two classes are connected and can
 
 ---
 
-## 🧪 UML Example:
+## UML Example:
 
 ```
 +-----------+           +-----------+
@@ -1986,7 +1986,7 @@ So basically, association is used to show that two classes are connected and can
 
 ---
 
-## 🛡️ Types of Association
+## Types of Association
 
 Association is the base UML relationship. It has 3 special forms:
 
@@ -2000,7 +2000,7 @@ Association is the base UML relationship. It has 3 special forms:
 
 ---
 
-## 🎓 Multiplicity in Association
+## Multiplicity in Association
 
 When two classes are associated, we can specify **how many objects** are connected to each other:
 
@@ -2016,7 +2016,7 @@ When two classes are associated, we can specify **how many objects** are connect
 
 ---
 
-## 🌟 Summary
+## Summary
 
 * **Association** = A class holds a reference to another class ("normal connection")
 * Shows a "uses-a" or "knows-a" relationship
@@ -2025,7 +2025,7 @@ When two classes are associated, we can specify **how many objects** are connect
 
 ---
 
-## 💬 Real-Life Examples of Association
+## Real-Life Examples of Association
 
 | Association Type | Example             |
 | ---------------- | ------------------- |
@@ -2042,7 +2042,7 @@ Association helps in designing object interactions and defining system relations
 
 # UML / Java Object Association
 
-## ✨ What is Object Association?
+## What is Object Association?
 
 **Object Association** refers to the relationship between two objects where **one object is connected to another** or **holds a reference to another**.
 
@@ -2067,7 +2067,7 @@ If a `Teacher` object holds a reference to a `Student` object, it means:
 
 ---
 
-## 📊 UML Representation:
+## UML Representation:
 
 ```
 +----------+           +---------+
@@ -2101,7 +2101,7 @@ Explanation:
 
 ---
 
-## 📃 Object Association Types:
+## Object Association Types:
 
 | Type         | Description                 | Java Representation       |
 | ------------ | --------------------------- | ------------------------- |
@@ -2112,7 +2112,7 @@ Explanation:
 
 ---
 
-## 🎓 Summary Table:
+## Summary Table:
 
 | Term               | Description                                            |
 | ------------------ | ------------------------------------------------------ |
@@ -2178,7 +2178,7 @@ It’s like: “I have you, but you are still free to go anywhere.”
 
 ---
 
-## 📊 UML Notation
+## UML Notation
 
 ```
 +--------+         ◇─────>      +---------+
@@ -2191,7 +2191,7 @@ It’s like: “I have you, but you are still free to go anywhere.”
 
 ---
 
-## 📊 Java Code Example
+## Java Code Example
 
 ```java
 class Player {
@@ -2208,17 +2208,7 @@ class Team {
 
 ---
 
-## 🧱 Aggregation vs Association vs Composition
-
-| Concept     | Symbol      | "Has-a" | Part depends on Whole? | Example           |
-| ----------- | ----------- | ------- | ---------------------- | ----------------- |
-| Association | ──────────> | ✔️      | ❌ No                   | Teacher → Student |
-| Aggregation | ◇─────────> | ✔️      | ❌ No                   | Team → Player     |
-| Composition | ◆─────────> | ✔️      | ✅ Yes                  | House → Room      |
-
----
-
-## 🌟 Summary
+## Summary
 
 * **Aggregation** is a special "has-a" relationship
 * The **part can live independently** from the whole
@@ -2274,7 +2264,7 @@ I used to get confused between the two but after writing this way I got it more 
 
 ---
 
-## 📊 UML Notation
+## UML Notation
 
 ```
 +--------+         ◆──────>      +--------+
@@ -2287,7 +2277,7 @@ I used to get confused between the two but after writing this way I got it more 
 
 ---
 
-## 📊 Java Code Example
+## Java Code Example
 
 ```java
 class Room {
@@ -2308,7 +2298,7 @@ class House {
 
 ---
 
-## 📁 Composition vs Aggregation vs Association
+## Composition vs Aggregation vs Association
 
 | Concept     | UML Symbol        | "Has-a" | Part survives?   | Example           |
 | ----------- | ----------------- | ------- | ---------------- | ----------------- |
@@ -2318,7 +2308,7 @@ class House {
 
 ---
 
-## 🔄 Quick Real-Life Comparison
+## Quick Real-Life Comparison
 
 | Whole      | Part     | Relationship Type |
 | ---------- | -------- | ----------------- |
@@ -2329,7 +2319,7 @@ class House {
 
 ---
 
-## 🌟 Summary
+## Summary
 
 * **Composition** = If whole dies → part also dies
 * Strongest form of association (tight coupling)
@@ -2390,7 +2380,7 @@ Bas thoda flow samajhna padta hai and then symbols make sense.
 
 ---
 
-## 🧪 Example: ATM Sequence Diagram
+## Example: ATM Sequence Diagram
 
 ### Actors & Objects:
 
@@ -2415,7 +2405,7 @@ User        ATM           Server
 
 ---
 
-## 📌 Key Points
+## Key Points
 
 * **Left to Right**: shows actors and objects involved
 * **Top to Bottom**: shows flow of time
@@ -2434,7 +2424,7 @@ User        ATM           Server
 
 ---
 
-## 🎯 Summary
+## Summary
 
 | Feature       | Description                               |
 | ------------- | ----------------------------------------- |
@@ -2529,7 +2519,7 @@ Now I remember them like stories and it's easier.
 
 ---
 
-## 🧪 Real-Life Example: Food Delivery App (Zomato)
+## Real-Life Example: Food Delivery App (Zomato)
 
 ```plaintext
 User        App           Server        DeliveryBoy
@@ -2548,7 +2538,7 @@ User        App           Server        DeliveryBoy
 
 ---
 
-## 🌟 Summary Table
+## Summary Table
 
 | Message Type | Symbol   | Description                       |
 | ------------ | -------- | --------------------------------- |
@@ -2704,7 +2694,7 @@ These lines show the lifespan of each object during the interaction.
 
 ---
 
-### ➡️ Step 4: Add Messages
+### Step 4: Add Messages
 
 Add **horizontal arrows** to represent messages passed between the objects.
 
@@ -2729,13 +2719,13 @@ User       LoginPage       AuthServer       DB
 
 ---
 
-### 🍉 Step 5: Add Activation Bars (Optional)
+### Step 5: Add Activation Bars (Optional)
 
 Draw thin rectangles over lifelines to show when an object is actively processing a task.
 
 ---
 
-### ❌ Step 6: (Optional) Show Lost/Found Messages
+### Step 6: (Optional) Show Lost/Found Messages
 
 * **Lost Message:** Sender is known, receiver is unknown (arrow ends without a target)
 * **Found Message:** Sender is unknown, receiver is known (arrow starts without a source)
@@ -2757,7 +2747,7 @@ LoginPage → User : showDashboard()
 
 ---
 
-## 🌟 Tools to Draw Sequence Diagrams
+## Tools to Draw Sequence Diagrams
 
 * **Pen & Paper:** Perfect for rough sketches
 * **Online Tools:**
@@ -2769,7 +2759,7 @@ LoginPage → User : showDashboard()
 
 ---
 
-## 🧪 Final Example: Login Flow
+## Final Example: Login Flow
 
 ```
 User        LoginPage      AuthServer       DB
