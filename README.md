@@ -64,10 +64,10 @@ To build a strong foundation in Low-Level Design and become confident in designi
    - [Iterator Design Pattern](./06_Behavioral_Design_Pattern/05_Iterator_Design_Pattern.md)  
    - [Visitor Design Pattern](./06_Behavioral_Design_Pattern/06_Visitor_Design_Pattern.md)  
 
-7. [Designing a Parking Lot System](./07_Designing_a_Parking_Lot_System.md) – ⏳ In Progress  
-8. [Designing an Elevator System](./08_Designing_an_Elevator_System.md) – 🔲 Pending  
-9. [Designing a Car Rental System](./09_Designing_a_Car_Rental_System.md) – 🔲 Pending  
-10. [Designing a Meeting Scheduler System](./10_Designing_a_Meeting_Scheduler_System.md) – 🔲 Pending  
+7. [Designing a Parking Lot System](./07_Designing_a_Parking_Lot_System.md) – ✅ Completed  
+8. [Designing an Elevator System](./08_Designing_an_Elevator_System.md) – ✅ Completed  
+9. [Designing a Car Rental System](./09_Designing_a_Car_Rental_System.md) – ✅ Completed  
+10. [Designing a Meeting Scheduler System](./10_Designing_a_Meeting_Scheduler_System.md) – ⏳ In Progress  
 11. [Designing a Vending Machine System](./11_Designing_a_Vending_Machine_System.md) – 🔲 Pending  
 12. [Designing a LinkedIn System](./12_Designing_a_LinkedIn_System.md) – 🔲 Pending  
 13. [Designing a Chess Game System](./13_Designing_a_Chess_Game_System.md) – 🔲 Pending  
