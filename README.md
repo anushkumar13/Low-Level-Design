@@ -35,7 +35,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
 2. [Object Oriented Design Principles](./02_Object_Oriented_Design_Principles.md) – ✅ Completed  
 3. [Design Patterns](./03_Design_Patterns.md)  
 
-4. Creational Design Pattern – ✅ Completed  
+4. [Creational Design Pattern](04_Creational_Design_Pattern) – ✅ Completed  
    - [Creational Design Patterns](./04_Creational_Design_Pattern/01_Creational_Design_Patterns.md)  
    - [Factory Method Design Pattern](./04_Creational_Design_Pattern/02_Factory_Method_Design_Pattern.md)  
    - [Abstract Factory Design Pattern](./04_Creational_Design_Pattern/03_Abstract_Factory_Design_Pattern.md)  
@@ -44,7 +44,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
    - [Telescoping Constructor Design Pattern](./04_Creational_Design_Pattern/06_Telescoping_Constructor_Design_Pattern.md)  
    - [Prototype Design Pattern](./04_Creational_Design_Pattern/07_Prototype_Design_Pattern.md)  
 
-5. Structural Design Pattern – ✅ Completed  
+5. [Structural Design Pattern](05_Structural_Design_Pattern) – ✅ Completed  
    - [Structural Design Pattern](./05_Structural_Design_Pattern/01_Structural_Design_Pattern.md)  
    - [Decorator Design Pattern](./05_Structural_Design_Pattern/02_Decorator_Design_Pattern.md)  
    - [Adapter Design Pattern](./05_Structural_Design_Pattern/03_Adapter_Design_Pattern.md)  
@@ -56,7 +56,7 @@ To build a strong foundation in Low-Level Design and become confident in designi
    - [Composite Design Pattern](./05_Structural_Design_Pattern/09_Composite_Design_Pattern.md)  
    - [Flyweight Design Pattern](./05_Structural_Design_Pattern/10_Flyweight_Design_Pattern.md)  
 
-6. Behavioral Design Pattern – ✅ Completed  
+6. [Behavioral Design Pattern](06_Behavioral_Design_Pattern) – ✅ Completed  
    - [Behavioral Design Pattern](./06_Behavioral_Design_Pattern/01_Behavioral_Design_Pattern.md)  
    - [Chain of Responsibility Design Pattern](./06_Behavioral_Design_Pattern/02_Chain_of_Responsibility_Design_Pattern.md)  
    - [Command Design Pattern](./06_Behavioral_Design_Pattern/03_Command_Design_Pattern.md)  
@@ -103,4 +103,4 @@ By the end of this journey, I aim to solve LLD interview problems confidently an
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anush-kumar-mall)  
 - 📸 [Instagram](https://www.instagram.com/anush.kumar.mall/?next=%2Fanushkumar13%2F)  
-- ✉️ Email: mallanushkumar@gmail.com
+- ✉️ Email: kumarmallanush@gmail.com
