@@ -1,51 +1,58 @@
 # Bridge Pattern vs Adapter Pattern
 
-## 🎯 Purpose
+## Purpose
 
-| Aspect              | Bridge Pattern                                                                    | Adapter Pattern                                             |
-| ------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 🔧 Purpose          | To decouple abstraction from implementation                                       | To make incompatible classes work together                  |
-| 📦 Use Case         | When you want both sides (abstraction and implementation) to evolve independently | When you need to use an existing class with a new interface |
-| 🏗️ Designed During | Design time (used in new system design)                                           | Afterthought (used for existing code reuse)                 |
-| 🔗 Relationship     | Abstraction ↔ Implementation (loose coupling)                                     | Client ↔ Adaptee (fixing interface mismatch)                |
-| 🔄 Flexibility      | High – abstraction and implementation can grow separately                         | Low – adapts specific existing code                         |
+| Aspect          | Bridge Pattern                                                                    | Adapter Pattern                                             |
+| --------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Purpose         | To decouple abstraction from implementation                                       | To make incompatible classes work together                  |
+| Use Case        | When you want both sides (abstraction and implementation) to evolve independently | When you need to use an existing class with a new interface |
+| Designed During | Design time (used in new system design)                                           | Afterthought (used for existing code reuse)                 |
+| Relationship    | Abstraction and Implementation (loose coupling)                                   | Client and Adaptee (fixing interface mismatch)              |
+| Flexibility     | High – abstraction and implementation can grow separately                         | Low – adapts specific existing code                         |
 
-## 💡 Real-Life Example
+## Real-Life Example
 
-### 🔌 Adapter Pattern: Charger Adapter
+### Adapter Pattern: Charger Adapter
 
-Imagine you have an Apple charger (which doesn’t fit Indian plug sockets). You use an adapter to make the Apple charger work with the Indian socket.
+Suppose I have an Apple charger which doesn’t fit into an Indian plug socket. To solve this, I use an adapter.
 
-* You don’t change the client code (you as a user).
-* You just add an adapter in between to make the incompatible plug and socket work together.
-* Adapter makes old code usable in a new environment.
+* The Apple charger (old code) doesn’t change.
+* The Indian socket (new interface) stays the same.
+* I use an adapter in between to make them compatible.
 
-### 🌉 Bridge Pattern: Remote & TV
+This is similar to how the Adapter Pattern helps to reuse old code in a new environment by fixing interface mismatches.
 
-Think of a TV remote. The remote is the **abstraction**, and the TV is the **implementation**.
+### Bridge Pattern: Remote and TV
 
-* Both are connected via a bridge interface.
-* You can add new remotes or new TVs without changing the other side.
-* This was planned at **design time** for flexibility.
+Now think of a remote control and a TV. The remote is the abstraction, and the TV is the implementation.
 
-## 🤯 Super Simple Analogy
+* The remote can control any TV through a common interface.
+* I can add new remotes or TVs without changing existing classes.
+* This was planned during design to allow flexibility.
 
-| Situation                                                                             | Pattern             |
-| ------------------------------------------------------------------------------------- | ------------------- |
-| You are building a new system where abstraction and implementation should be separate | **Bridge Pattern**  |
-| You have old code that you want to use in a new system                                | **Adapter Pattern** |
+This is how the Bridge Pattern separates abstraction and implementation from the beginning.
 
-## ✅ Final Summary
+## Simple Analogy
 
-### 🧱 Bridge Pattern:
+| Situation                                                                             | Pattern         |
+| ------------------------------------------------------------------------------------- | --------------- |
+| You are building a new system where abstraction and implementation should be separate | Bridge Pattern  |
+| You have old code that you want to use in a new system                                | Adapter Pattern |
 
-* Used when your system is complex.
-* You want to **separate abstraction from implementation**.
-* Gives **long-term flexibility and scalability**.
+## Final Summary
 
-### 🔌 Adapter Pattern:
+### Bridge Pattern:
 
-* Used when you have **existing code** that doesn't match the required interface.
-* You create a **converter** (adapter) to reuse that code **without changing it**.
+* Useful when designing a new, scalable system.
+* Helps to separate abstraction from implementation.
+* Designed for long-term flexibility and maintainability.
 
-> Both are structural design patterns but solve **very different problems**. Bridge is proactive (for designing scalable systems), Adapter is reactive (for using old code in new systems).
+### Adapter Pattern:
+
+* Useful when trying to reuse existing code in a new system.
+* Acts like a converter to make incompatible interfaces work together.
+* Designed to make old code fit without modification.
+
+Both Bridge and Adapter are structural design patterns, but they serve very different purposes. Bridge is about designing scalable systems from the beginning, while Adapter is about making old code usable in new scenarios.
+
+---
