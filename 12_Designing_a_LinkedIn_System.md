@@ -129,3 +129,13 @@ You can download the implementation code from the following link:
 [Coming Soon...]()
 
 ---
+
+# 📘 What I Learned from the LinkedIn System Design Problem
+
+While going through the solution of how LinkedIn is designed behind the scenes, I understood how scalable systems are built using design patterns and modular thinking. One of the key takeaways was the use of the **Observer Design Pattern**, where components are decoupled in such a way that when one component changes (like user activity), others (like notification services) are automatically updated without tight dependency. This taught me how loosely coupled systems improve flexibility and maintainability.
+
+I also learned the importance of diagrams like **Use Case Diagrams** and **Class Diagrams**. The use case diagram helped me visualize which actors interact with which parts of the system, while the class diagram helped me understand how entities like users, posts, notifications, etc., are connected at the backend level using OOP principles.
+
+Another important thing I realized is how important it is to separate concerns in the architecture — for example, handling real-time updates, analytics, and content sharing using different services or modules. This avoids overloading any single part of the system. Concepts like **event-driven architecture**, **real-time notification delivery**, and **modular backend design** gave me an idea of how actual tech companies build reliable and scalable platforms.
+
+Overall, this solution helped me understand how design patterns, proper planning, and modular architecture make a platform like LinkedIn work efficiently at scale.
