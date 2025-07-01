@@ -94,7 +94,7 @@ You can download the implementation code from the following link:
 
 ---
 
-# ♟️ What I Learned from the Online Chess Game System Design Solution
+# What I Learned from the Online Chess Game System Design Solution
 
 After going through the system design solution of the online multiplayer chess game, I understood how real-time multiplayer systems work in a controlled, rule-based environment. One of the biggest learnings for me was the importance of **game state management** — how the system keeps track of the current positions, turn order, legal moves, and whether the game is in progress, check, or checkmate. I saw how important it is to maintain the game's integrity through strict rule enforcement at the backend level.
 

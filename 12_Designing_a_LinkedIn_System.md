@@ -130,7 +130,7 @@ You can download the implementation code from the following link:
 
 ---
 
-# 📘 What I Learned from the LinkedIn System Design Problem
+# What I Learned from the LinkedIn System Design Problem
 
 While going through the solution of how LinkedIn is designed behind the scenes, I understood how scalable systems are built using design patterns and modular thinking. One of the key takeaways was the use of the **Observer Design Pattern**, where components are decoupled in such a way that when one component changes (like user activity), others (like notification services) are automatically updated without tight dependency. This taught me how loosely coupled systems improve flexibility and maintainability.
 
