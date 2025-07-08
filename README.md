@@ -67,11 +67,11 @@ To build a strong foundation in Low-Level Design and become confident in designi
 7. [Designing a Parking Lot System](./07_Designing_a_Parking_Lot_System.md) – ✅ Completed  
 8. [Designing an Elevator System](./08_Designing_an_Elevator_System.md) – ✅ Completed  
 9. [Designing a Car Rental System](./09_Designing_a_Car_Rental_System.md) – ✅ Completed  
-10. [Designing a Meeting Scheduler System](./10_Designing_a_Meeting_Scheduler_System.md) – ⏳ In Progress  
-11. [Designing a Vending Machine System](./11_Designing_a_Vending_Machine_System.md) – 🔲 Pending  
-12. [Designing a LinkedIn System](./12_Designing_a_LinkedIn_System.md) – 🔲 Pending  
-13. [Designing a Chess Game System](./13_Designing_a_Chess_Game_System.md) – 🔲 Pending  
-14. [Designing a Restaurant Management System](./14_Designing_a_Restaurant_Management_System.md) – 🔲 Pending  
+10. [Designing a Meeting Scheduler System](./10_Designing_a_Meeting_Scheduler_System.md) – ✅ Completed 
+11. [Designing a Vending Machine System](./11_Designing_a_Vending_Machine_System.md) – ✅ Completed 
+12. [Designing a LinkedIn System](./12_Designing_a_LinkedIn_System.md) – ✅ Completed  
+13. [Designing a Chess Game System](./13_Designing_a_Chess_Game_System.md) – ✅ Completed  
+14. [Designing a Restaurant Management System](./14_Designing_a_Restaurant_Management_System.md) – ✅ Completed
 
 
 > Each topic is organized in its own Markdown file with clean formatting and practical examples.
