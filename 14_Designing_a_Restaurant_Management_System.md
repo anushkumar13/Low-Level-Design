@@ -107,7 +107,7 @@ You can download the implementation code from the following link:
 
 ---
 
-# What I Learned from the Hotel Management System Solution
+# What I Learned from the Hotel Management System Problem
 
 While studying the solution for the Hotel Management System, I got to understand how role-based systems are designed. One of the key things I learned was how **Role-Based Access Control (RBAC)** is used to manage different types of users like guests, staff, and admins. This helped me see how permissions and responsibilities are separated based on user types.
 
